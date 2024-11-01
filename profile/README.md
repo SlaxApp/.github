@@ -18,5 +18,5 @@ We are a passionate team that believes in providing modern web infrastructure to
 
 
 
-|   [Slax]   |           <a href="https://github.com/Slaxapp/Slax" target="blank"><picture style="width: 500px"><source media="(prefers-color-scheme: light)" srcset="profile/images/1.svg" /><source media="(prefers-color-scheme: dark)" srcset="profile/images/1.svg" /><img src="profile/images/1.svg" width="500" alt="Slax Logo" /></picture></a>            |
+|   [Slax]   |           <a href="https://github.com/Slaxapp/Slax" target="blank"><picture style="width: 500px"><source media="(prefers-color-scheme: light)" srcset="https://github.com/SlaxApp/.github/blob/main/profile/images/1.svg" /><source media="(prefers-color-scheme: dark)" srcset="https://github.com/SlaxApp/.github/blob/main/profile/images/1.svg" /><img src="https://github.com/SlaxApp/.github/blob/main/profile/images/1.svg" width="500" alt="Slax Logo" /></picture></a>            |
 | :----------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
